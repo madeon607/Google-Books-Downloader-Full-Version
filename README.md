@@ -232,3 +232,6 @@ This repository serves as the official landing page for **Google Books Downloade
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Google Books Downloader today!**
+
+---
+**Last updated:** 2026-09-10 12:52:00 UTC
